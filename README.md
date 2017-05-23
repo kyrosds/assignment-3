@@ -11,15 +11,17 @@
 
 ```
 
-My name is:
+My name is: David
 
-I like to:
+I like to: Golf and write code
 
-I'm learning:
+I'm learning: Full Stack Web Development
 
 ```
 
 4. Add a screenshot (.jpg or .png is fine) of a tweet you've altered using Inspect Element in Chrome to the project folder.
+
+![Twitter-pic](/Capture.PNG)
 
 4. Push it up to your own repository on Github (don't try to override the original).
 
